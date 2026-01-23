@@ -782,7 +782,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 75f1c126e7ca7f5458b7b66b824f2db9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9c2747e4c8cfbc647892728ccc56cb1e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1951,6 +1951,42 @@ MonoBehaviour:
   - startPosition: {x: 5.63, y: -11.41}
     startSize: {x: 0.3, y: 0.3}
   - startPosition: {x: -4.65, y: -11.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: -3.65, y: -8.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: -1.65, y: -11.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 1.65, y: 7.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 0.65, y: -3.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: -8.65, y: -6.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 0, y: 2.17}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 7.4, y: -8.2}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 9.8, y: -2.11}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: -6.1156, y: 8.8}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 5, y: 5}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 10.5, y: -11.65}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 8.2, y: -2.66}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 7.4, y: 0.5}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 9.4, y: -7.5}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: -4.65, y: 0}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 7.556, y: 0}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 0.9, y: 4.33}
+    startSize: {x: 0.3, y: 0.3}
+  - startPosition: {x: 0, y: 0}
     startSize: {x: 0.3, y: 0.3}
 --- !u!4 &1874169366
 Transform:
