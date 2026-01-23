@@ -1923,7 +1923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98e571c4cedd6d44f8e9911939451df8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  turtleCount: 8
+  turtleCount: 4
   turtleShowingTime: 10
   hidingTurtle: 0
   guessingTime: 10
